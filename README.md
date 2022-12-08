@@ -56,24 +56,7 @@
 <br/>
 
 
-<!-- ##  Recent articles on Hashnode
 
- <!-- BLOG-POST-LIST:START -->
-- [What are Protocols in Computer Networking?](https://ankitmishra.hashnode.dev/what-are-protocols-in-computer-networking)
-- [What is Computer Networking?](https://ankitmishra.hashnode.dev/what-is-computer-networking)
-- [How Internet was started?](https://ankitmishra.hashnode.dev/how-internet-was-started)
-- [Introduction To JavaScript](https://ankitmishra.hashnode.dev/introduction-to-javascript)
-- [Introduction to OPEN SOURCE.](https://ankitmishra.hashnode.dev/introduction-to-open-source)
-<!-- BLOG-POST-LIST:END -->
- 
- # Recent Activity :zap:
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/ankitmrmishra/drumkit/issues/2) in [ankitmrmishra/drumkit](https://github.com/ankitmrmishra/drumkit)
-2. 🗣 Commented on [#2](https://github.com/ankitmrmishra/drumkit/issues/2) in [ankitmrmishra/drumkit](https://github.com/ankitmrmishra/drumkit)
-3. 🎉 Merged PR [#1](https://github.com/ankitmrmishra/ankitmishra/pull/1) in [ankitmrmishra/ankitmishra](https://github.com/ankitmrmishra/ankitmishra)
-4. 🗣 Commented on [#1](https://github.com/ankitmrmishra/ankitmishra/issues/1) in [ankitmrmishra/ankitmishra](https://github.com/ankitmrmishra/ankitmishra)
-5. 💪 Opened PR [#1](https://github.com/ankitmrmishra/ankitmishra/pull/1) in [ankitmrmishra/ankitmishra](https://github.com/ankitmrmishra/ankitmishra)
-<!--END_SECTION:activity--> -->
 
  
 
